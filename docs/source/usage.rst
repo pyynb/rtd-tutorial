@@ -3,10 +3,10 @@ Usage
 
 .. _installation:
 
-Installation
+Installation pyy
 ------------
 
-To use Lumache, first install it using pip:
+To use Lumache pyy, first install it using pip:
 
 .. code-block:: console
 
